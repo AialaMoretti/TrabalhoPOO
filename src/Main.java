@@ -1,3 +1,12 @@
+/***********************************************************************************
+ * Universidade Católica de Brasília - UCB                                         *
+ * Disciplina: Programação Orientada a Objetos                                     *
+ * Professor: Alexandre S. D. Santos                                               *
+ * Data: 10/04/2026                                                                *
+ *                                                                                 *
+ * Descrição: Sistema de biblioteca simples                                        *   
+ ***********************************************************************************/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.time.LocalDate;
